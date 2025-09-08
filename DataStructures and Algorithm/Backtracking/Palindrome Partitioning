@@ -1,0 +1,36 @@
+import java.util.*;
+
+class Solution {
+    List<List<String>> res;
+
+    public List<List<String>> partition(String s) {
+        res = new ArrayList<>();
+        List<String> cur = new ArrayList<>();
+        backtrack(s, res, cur, 0);
+        return res;
+    }
+
+    static void backtrack(String s, List<List<String>> res, List<String> cur, int index) {
+        if (index == s.length()) {
+            res.add(new ArrayList<>(cur));
+            return;
+        }
+
+        for (int i = index; i < s.length(); i++) {
+            if (isPalindrome(s, index, i)) {
+                cur.add(s.substring(index, i + 1));  
+                backtrack(s, res, cur, i + 1);       
+                cur.remove(cur.size() - 1);          
+            }
+        }
+    }
+
+    static boolean isPalindrome(String s, int start, int end) {
+        while (start < end) {
+            if (s.charAt(start) != s.charAt(end)) return false;
+            start++;
+            end--;
+        }
+        return true;
+    }
+}
