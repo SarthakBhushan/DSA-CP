@@ -20,6 +20,7 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SarthakBhushan/DSA-CP/tree/master/0486-predict-the-winner) |
+| [0968-binary-tree-cameras](https://github.com/SarthakBhushan/DSA-CP/tree/master/0968-binary-tree-cameras) |
 ## Recursion
 |  |
 | ------- |
@@ -28,4 +29,16 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SarthakBhushan/DSA-CP/tree/master/0486-predict-the-winner) |
+## Tree
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/SarthakBhushan/DSA-CP/tree/master/0968-binary-tree-cameras) |
+## Depth-First Search
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/SarthakBhushan/DSA-CP/tree/master/0968-binary-tree-cameras) |
+## Binary Tree
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/SarthakBhushan/DSA-CP/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
