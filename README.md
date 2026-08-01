@@ -8,6 +8,7 @@ Record of questions of DSA/CP
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SarthakBhushan/DSA-CP/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/SarthakBhushan/DSA-CP/tree/master/0486-predict-the-winner) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/SarthakBhushan/DSA-CP/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -41,4 +42,20 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/SarthakBhushan/DSA-CP/tree/master/0968-binary-tree-cameras) |
+## Two Pointers
+|  |
+| ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/SarthakBhushan/DSA-CP/tree/master/0786-k-th-smallest-prime-fraction) |
+## Binary Search
+|  |
+| ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/SarthakBhushan/DSA-CP/tree/master/0786-k-th-smallest-prime-fraction) |
+## Sorting
+|  |
+| ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/SarthakBhushan/DSA-CP/tree/master/0786-k-th-smallest-prime-fraction) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/SarthakBhushan/DSA-CP/tree/master/0786-k-th-smallest-prime-fraction) |
 <!---LeetCode Topics End-->
