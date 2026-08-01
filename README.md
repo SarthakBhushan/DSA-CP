@@ -9,6 +9,7 @@ Record of questions of DSA/CP
 | [0238-product-of-array-except-self](https://github.com/SarthakBhushan/DSA-CP/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/SarthakBhushan/DSA-CP/tree/master/0486-predict-the-winner) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/SarthakBhushan/DSA-CP/tree/master/0786-k-th-smallest-prime-fraction) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SarthakBhushan/DSA-CP/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -70,4 +71,5 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/SarthakBhushan/DSA-CP/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SarthakBhushan/DSA-CP/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
