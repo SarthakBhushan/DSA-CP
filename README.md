@@ -23,6 +23,7 @@ Record of questions of DSA/CP
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SarthakBhushan/DSA-CP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/SarthakBhushan/DSA-CP/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SarthakBhushan/DSA-CP/tree/master/0877-stone-game) |
 | [0968-binary-tree-cameras](https://github.com/SarthakBhushan/DSA-CP/tree/master/0968-binary-tree-cameras) |
@@ -38,14 +39,17 @@ Record of questions of DSA/CP
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SarthakBhushan/DSA-CP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/SarthakBhushan/DSA-CP/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SarthakBhushan/DSA-CP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/SarthakBhushan/DSA-CP/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SarthakBhushan/DSA-CP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/SarthakBhushan/DSA-CP/tree/master/0968-binary-tree-cameras) |
 ## Two Pointers
 |  |
