@@ -70,6 +70,7 @@ Record of questions of DSA/CP
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SarthakBhushan/DSA-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/SarthakBhushan/DSA-CP/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -80,4 +81,12 @@ Record of questions of DSA/CP
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/SarthakBhushan/DSA-CP/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SarthakBhushan/DSA-CP/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SarthakBhushan/DSA-CP/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SarthakBhushan/DSA-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
