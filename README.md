@@ -48,6 +48,7 @@ Record of questions of DSA/CP
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SarthakBhushan/DSA-CP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/SarthakBhushan/DSA-CP/tree/master/0968-binary-tree-cameras) |
+| [3310-remove-methods-from-project](https://github.com/SarthakBhushan/DSA-CP/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -93,4 +94,12 @@ Record of questions of DSA/CP
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SarthakBhushan/DSA-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/SarthakBhushan/DSA-CP/tree/master/1004-max-consecutive-ones-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/SarthakBhushan/DSA-CP/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/SarthakBhushan/DSA-CP/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
