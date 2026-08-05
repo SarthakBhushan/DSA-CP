@@ -13,6 +13,7 @@ Record of questions of DSA/CP
 | [0904-fruit-into-baskets](https://github.com/SarthakBhushan/DSA-CP/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SarthakBhushan/DSA-CP/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SarthakBhushan/DSA-CP/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SarthakBhushan/DSA-CP/tree/master/1248-count-number-of-nice-subarrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SarthakBhushan/DSA-CP/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
 |  |
@@ -20,11 +21,13 @@ Record of questions of DSA/CP
 | [0238-product-of-array-except-self](https://github.com/SarthakBhushan/DSA-CP/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/SarthakBhushan/DSA-CP/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SarthakBhushan/DSA-CP/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SarthakBhushan/DSA-CP/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SarthakBhushan/DSA-CP/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SarthakBhushan/DSA-CP/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SarthakBhushan/DSA-CP/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +97,7 @@ Record of questions of DSA/CP
 | [0003-longest-substring-without-repeating-characters](https://github.com/SarthakBhushan/DSA-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/SarthakBhushan/DSA-CP/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SarthakBhushan/DSA-CP/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SarthakBhushan/DSA-CP/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,6 +105,7 @@ Record of questions of DSA/CP
 | [0904-fruit-into-baskets](https://github.com/SarthakBhushan/DSA-CP/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SarthakBhushan/DSA-CP/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SarthakBhushan/DSA-CP/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SarthakBhushan/DSA-CP/tree/master/1248-count-number-of-nice-subarrays) |
 ## Breadth-First Search
 |  |
 | ------- |
