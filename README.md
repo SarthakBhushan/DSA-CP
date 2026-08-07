@@ -28,6 +28,7 @@ Record of questions of DSA/CP
 | [0486-predict-the-winner](https://github.com/SarthakBhushan/DSA-CP/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SarthakBhushan/DSA-CP/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SarthakBhushan/DSA-CP/tree/master/1248-count-number-of-nice-subarrays) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Record of questions of DSA/CP
 | [0003-longest-substring-without-repeating-characters](https://github.com/SarthakBhushan/DSA-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SarthakBhushan/DSA-CP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/SarthakBhushan/DSA-CP/tree/master/2390-removing-stars-from-a-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
 | ------- |
@@ -117,4 +119,16 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/SarthakBhushan/DSA-CP/tree/master/3310-remove-methods-from-project) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
