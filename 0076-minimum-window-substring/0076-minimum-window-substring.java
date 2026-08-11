@@ -3,7 +3,7 @@ class Solution {
         if(t.length()>s.length())return "";
         HashMap<Character, Integer>map = new HashMap<>();
         for(char ch: t.toCharArray()){
-            map.put(ch, map.getOrDefault(ch,0)+1);
+            map.put(ch, map.getOrDefault(ch,0)+1);   //put t charcaters in hashmap first
         }
         int l=0;
         int count=0;
@@ -11,7 +11,7 @@ class Solution {
         int start=0;
         for(int r=0;r<s.length();r++){
             char ch= s.charAt(r);
-            if(map.containsKey(ch)){
+            if(map.containsKey(ch)){        //now start putting s character if same character found increase count and reduce map freq by 1
                 if(map.get(ch)>0)count++;
                 map.put(ch,map.get(ch)-1);
             }
