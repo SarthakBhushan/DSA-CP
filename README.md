@@ -15,6 +15,7 @@ Record of questions of DSA/CP
 | [1004-max-consecutive-ones-iii](https://github.com/SarthakBhushan/DSA-CP/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SarthakBhushan/DSA-CP/tree/master/1248-count-number-of-nice-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SarthakBhushan/DSA-CP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SarthakBhushan/DSA-CP/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
 |  |
@@ -109,6 +110,7 @@ Record of questions of DSA/CP
 | [0930-binary-subarrays-with-sum](https://github.com/SarthakBhushan/DSA-CP/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SarthakBhushan/DSA-CP/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SarthakBhushan/DSA-CP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SarthakBhushan/DSA-CP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Record of questions of DSA/CP
 | [1004-max-consecutive-ones-iii](https://github.com/SarthakBhushan/DSA-CP/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SarthakBhushan/DSA-CP/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SarthakBhushan/DSA-CP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SarthakBhushan/DSA-CP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Breadth-First Search
 |  |
 | ------- |
