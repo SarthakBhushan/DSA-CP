@@ -15,6 +15,7 @@ Record of questions of DSA/CP
 | [1004-max-consecutive-ones-iii](https://github.com/SarthakBhushan/DSA-CP/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SarthakBhushan/DSA-CP/tree/master/1248-count-number-of-nice-subarrays) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SarthakBhushan/DSA-CP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SarthakBhushan/DSA-CP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SarthakBhushan/DSA-CP/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
@@ -90,6 +91,7 @@ Record of questions of DSA/CP
 | [0003-longest-substring-without-repeating-characters](https://github.com/SarthakBhushan/DSA-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/SarthakBhushan/DSA-CP/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SarthakBhushan/DSA-CP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SarthakBhushan/DSA-CP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/SarthakBhushan/DSA-CP/tree/master/2390-removing-stars-from-a-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
@@ -150,4 +152,12 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/1140-stone-game-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SarthakBhushan/DSA-CP/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SarthakBhushan/DSA-CP/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
