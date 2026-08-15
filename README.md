@@ -160,4 +160,8 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SarthakBhushan/DSA-CP/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SarthakBhushan/DSA-CP/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
