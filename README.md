@@ -15,6 +15,7 @@ Record of questions of DSA/CP
 | [1004-max-consecutive-ones-iii](https://github.com/SarthakBhushan/DSA-CP/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SarthakBhushan/DSA-CP/tree/master/1248-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/SarthakBhushan/DSA-CP/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/SarthakBhushan/DSA-CP/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/SarthakBhushan/DSA-CP/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SarthakBhushan/DSA-CP/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -120,6 +121,7 @@ Record of questions of DSA/CP
 | [0930-binary-subarrays-with-sum](https://github.com/SarthakBhushan/DSA-CP/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SarthakBhushan/DSA-CP/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SarthakBhushan/DSA-CP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/SarthakBhushan/DSA-CP/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SarthakBhushan/DSA-CP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SarthakBhushan/DSA-CP/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
@@ -148,6 +150,7 @@ Record of questions of DSA/CP
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/SarthakBhushan/DSA-CP/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/SarthakBhushan/DSA-CP/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -187,4 +190,8 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/SarthakBhushan/DSA-CP/tree/master/2029-stone-game-ix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/SarthakBhushan/DSA-CP/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
