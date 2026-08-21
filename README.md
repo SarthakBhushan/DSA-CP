@@ -8,6 +8,7 @@ Record of questions of DSA/CP
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SarthakBhushan/DSA-CP/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/SarthakBhushan/DSA-CP/tree/master/0486-predict-the-winner) |
+| [0704-binary-search](https://github.com/SarthakBhushan/DSA-CP/tree/master/0704-binary-search) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/SarthakBhushan/DSA-CP/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0877-stone-game](https://github.com/SarthakBhushan/DSA-CP/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/SarthakBhushan/DSA-CP/tree/master/0904-fruit-into-baskets) |
@@ -86,6 +87,7 @@ Record of questions of DSA/CP
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/SarthakBhushan/DSA-CP/tree/master/0704-binary-search) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/SarthakBhushan/DSA-CP/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1004-max-consecutive-ones-iii](https://github.com/SarthakBhushan/DSA-CP/tree/master/1004-max-consecutive-ones-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SarthakBhushan/DSA-CP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
