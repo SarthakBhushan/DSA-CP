@@ -6,6 +6,7 @@ Record of questions of DSA/CP
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SarthakBhushan/DSA-CP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SarthakBhushan/DSA-CP/tree/master/0035-search-insert-position) |
 | [0238-product-of-array-except-self](https://github.com/SarthakBhushan/DSA-CP/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/SarthakBhushan/DSA-CP/tree/master/0486-predict-the-winner) |
@@ -89,6 +90,7 @@ Record of questions of DSA/CP
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SarthakBhushan/DSA-CP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SarthakBhushan/DSA-CP/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/SarthakBhushan/DSA-CP/tree/master/0704-binary-search) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/SarthakBhushan/DSA-CP/tree/master/0786-k-th-smallest-prime-fraction) |
