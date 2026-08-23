@@ -42,6 +42,7 @@ Record of questions of DSA/CP
 | [1140-stone-game-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SarthakBhushan/DSA-CP/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/SarthakBhushan/DSA-CP/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/SarthakBhushan/DSA-CP/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SarthakBhushan/DSA-CP/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SarthakBhushan/DSA-CP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -66,6 +67,7 @@ Record of questions of DSA/CP
 | [0877-stone-game](https://github.com/SarthakBhushan/DSA-CP/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/SarthakBhushan/DSA-CP/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/SarthakBhushan/DSA-CP/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SarthakBhushan/DSA-CP/tree/master/2029-stone-game-ix) |
 ## Tree
 |  |
@@ -110,6 +112,7 @@ Record of questions of DSA/CP
 | [0003-longest-substring-without-repeating-characters](https://github.com/SarthakBhushan/DSA-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/SarthakBhushan/DSA-CP/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SarthakBhushan/DSA-CP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/SarthakBhushan/DSA-CP/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SarthakBhushan/DSA-CP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/SarthakBhushan/DSA-CP/tree/master/2390-removing-stars-from-a-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -161,6 +164,7 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/SarthakBhushan/DSA-CP/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/SarthakBhushan/DSA-CP/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SarthakBhushan/DSA-CP/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
