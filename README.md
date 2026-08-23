@@ -6,6 +6,7 @@ Record of questions of DSA/CP
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SarthakBhushan/DSA-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SarthakBhushan/DSA-CP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SarthakBhushan/DSA-CP/tree/master/0035-search-insert-position) |
 | [0238-product-of-array-except-self](https://github.com/SarthakBhushan/DSA-CP/tree/master/0238-product-of-array-except-self) |
@@ -92,6 +93,7 @@ Record of questions of DSA/CP
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SarthakBhushan/DSA-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SarthakBhushan/DSA-CP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SarthakBhushan/DSA-CP/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/SarthakBhushan/DSA-CP/tree/master/0704-binary-search) |
