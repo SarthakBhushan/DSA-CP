@@ -10,6 +10,7 @@ Record of questions of DSA/CP
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SarthakBhushan/DSA-CP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SarthakBhushan/DSA-CP/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SarthakBhushan/DSA-CP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/SarthakBhushan/DSA-CP/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/SarthakBhushan/DSA-CP/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/SarthakBhushan/DSA-CP/tree/master/0704-binary-search) |
@@ -99,6 +100,7 @@ Record of questions of DSA/CP
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SarthakBhushan/DSA-CP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SarthakBhushan/DSA-CP/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SarthakBhushan/DSA-CP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/SarthakBhushan/DSA-CP/tree/master/0704-binary-search) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/SarthakBhushan/DSA-CP/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1004-max-consecutive-ones-iii](https://github.com/SarthakBhushan/DSA-CP/tree/master/1004-max-consecutive-ones-iii) |
