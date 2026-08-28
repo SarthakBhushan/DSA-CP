@@ -128,6 +128,7 @@ Record of questions of DSA/CP
 | [2390-removing-stars-from-a-string](https://github.com/SarthakBhushan/DSA-CP/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SarthakBhushan/DSA-CP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SarthakBhushan/DSA-CP/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -150,6 +151,7 @@ Record of questions of DSA/CP
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SarthakBhushan/DSA-CP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SarthakBhushan/DSA-CP/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SarthakBhushan/DSA-CP/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SarthakBhushan/DSA-CP/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -181,6 +183,7 @@ Record of questions of DSA/CP
 | [1927-sum-game](https://github.com/SarthakBhushan/DSA-CP/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SarthakBhushan/DSA-CP/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SarthakBhushan/DSA-CP/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -215,6 +218,7 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/SarthakBhushan/DSA-CP/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SarthakBhushan/DSA-CP/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Nim Game
 |  |
 | ------- |
@@ -228,4 +232,8 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SarthakBhushan/DSA-CP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SarthakBhushan/DSA-CP/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
