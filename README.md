@@ -95,6 +95,7 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/SarthakBhushan/DSA-CP/tree/master/0786-k-th-smallest-prime-fraction) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SarthakBhushan/DSA-CP/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Record of questions of DSA/CP
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SarthakBhushan/DSA-CP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SarthakBhushan/DSA-CP/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SarthakBhushan/DSA-CP/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SarthakBhushan/DSA-CP/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -236,4 +238,5 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SarthakBhushan/DSA-CP/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SarthakBhushan/DSA-CP/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
