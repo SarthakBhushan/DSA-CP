@@ -27,6 +27,7 @@ Record of questions of DSA/CP
 | [1563-stone-game-v](https://github.com/SarthakBhushan/DSA-CP/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/SarthakBhushan/DSA-CP/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SarthakBhushan/DSA-CP/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SarthakBhushan/DSA-CP/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SarthakBhushan/DSA-CP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SarthakBhushan/DSA-CP/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SarthakBhushan/DSA-CP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -114,6 +115,7 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/SarthakBhushan/DSA-CP/tree/master/0786-k-th-smallest-prime-fraction) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SarthakBhushan/DSA-CP/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -239,4 +241,8 @@ Record of questions of DSA/CP
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SarthakBhushan/DSA-CP/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SarthakBhushan/DSA-CP/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SarthakBhushan/DSA-CP/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
