@@ -32,6 +32,7 @@ Record of questions of DSA/CP
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SarthakBhushan/DSA-CP/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SarthakBhushan/DSA-CP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SarthakBhushan/DSA-CP/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SarthakBhushan/DSA-CP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SarthakBhushan/DSA-CP/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
@@ -154,6 +155,7 @@ Record of questions of DSA/CP
 | [1386-cinema-seat-allocation](https://github.com/SarthakBhushan/DSA-CP/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SarthakBhushan/DSA-CP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SarthakBhushan/DSA-CP/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SarthakBhushan/DSA-CP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SarthakBhushan/DSA-CP/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SarthakBhushan/DSA-CP/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -172,6 +174,7 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/SarthakBhushan/DSA-CP/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SarthakBhushan/DSA-CP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -232,6 +235,7 @@ Record of questions of DSA/CP
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/SarthakBhushan/DSA-CP/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SarthakBhushan/DSA-CP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SarthakBhushan/DSA-CP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
 |  |
 | ------- |
@@ -245,4 +249,8 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SarthakBhushan/DSA-CP/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SarthakBhushan/DSA-CP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
