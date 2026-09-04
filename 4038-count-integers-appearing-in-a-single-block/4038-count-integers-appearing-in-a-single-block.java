@@ -1,0 +1,16 @@
+class Solution {
+    public int countSpecialIntegers(int[] nums) {
+        Map<Integer, Integer>map = new HashMap<>();
+        map.put(nums[0],1);
+        for(int i=1;i<nums.length;i++){
+            if(nums[i]!=nums[i-1]){
+                map.put(nums[i], map.getOrDefault(nums[i],0)+1);
+            }
+        }
+        int count=0;
+        for(Map.Entry<Integer, Integer>p: map.entrySet()){
+            if(p.getValue()==1)count++;
+        }
+        return count;
+    }
+}
