@@ -130,6 +130,7 @@ Record of questions of DSA/CP
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SarthakBhushan/DSA-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/SarthakBhushan/DSA-CP/tree/master/0076-minimum-window-substring) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SarthakBhushan/DSA-CP/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SarthakBhushan/DSA-CP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/SarthakBhushan/DSA-CP/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SarthakBhushan/DSA-CP/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -141,6 +142,7 @@ Record of questions of DSA/CP
 ## Stack
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SarthakBhushan/DSA-CP/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/SarthakBhushan/DSA-CP/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -257,4 +259,8 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SarthakBhushan/DSA-CP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SarthakBhushan/DSA-CP/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
