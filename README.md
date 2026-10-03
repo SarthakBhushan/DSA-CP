@@ -86,12 +86,14 @@ Record of questions of DSA/CP
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SarthakBhushan/DSA-CP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SarthakBhushan/DSA-CP/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SarthakBhushan/DSA-CP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/SarthakBhushan/DSA-CP/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SarthakBhushan/DSA-CP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SarthakBhushan/DSA-CP/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SarthakBhushan/DSA-CP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/SarthakBhushan/DSA-CP/tree/master/0968-binary-tree-cameras) |
 | [3310-remove-methods-from-project](https://github.com/SarthakBhushan/DSA-CP/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -99,6 +101,7 @@ Record of questions of DSA/CP
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SarthakBhushan/DSA-CP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SarthakBhushan/DSA-CP/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SarthakBhushan/DSA-CP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/SarthakBhushan/DSA-CP/tree/master/0968-binary-tree-cameras) |
 ## Two Pointers
 |  |
@@ -146,6 +149,7 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SarthakBhushan/DSA-CP/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SarthakBhushan/DSA-CP/tree/master/0144-binary-tree-preorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SarthakBhushan/DSA-CP/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/SarthakBhushan/DSA-CP/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
