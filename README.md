@@ -85,6 +85,7 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SarthakBhushan/DSA-CP/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/SarthakBhushan/DSA-CP/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SarthakBhushan/DSA-CP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SarthakBhushan/DSA-CP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SarthakBhushan/DSA-CP/tree/master/0144-binary-tree-preorder-traversal) |
@@ -94,6 +95,7 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SarthakBhushan/DSA-CP/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/SarthakBhushan/DSA-CP/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SarthakBhushan/DSA-CP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SarthakBhushan/DSA-CP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SarthakBhushan/DSA-CP/tree/master/0144-binary-tree-preorder-traversal) |
@@ -104,6 +106,7 @@ Record of questions of DSA/CP
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SarthakBhushan/DSA-CP/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/SarthakBhushan/DSA-CP/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SarthakBhushan/DSA-CP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SarthakBhushan/DSA-CP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SarthakBhushan/DSA-CP/tree/master/0144-binary-tree-preorder-traversal) |
@@ -194,6 +197,7 @@ Record of questions of DSA/CP
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SarthakBhushan/DSA-CP/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SarthakBhushan/DSA-CP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/SarthakBhushan/DSA-CP/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SarthakBhushan/DSA-CP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
